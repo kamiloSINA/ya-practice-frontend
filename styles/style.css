@@ -10,6 +10,13 @@
 
 }
 
+html {
+  filter: invert(1);
+}
+
+image {
+  filter: invert(1);
+}
 
 
 .header {
